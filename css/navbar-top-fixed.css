@@ -1,0 +1,8 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+.dropdown-menu {
+    margin: 0.5rem -6.2rem 0;
+}
